@@ -1,45 +1,45 @@
+# Country Snapshot App 🌍
 
-### Introduction
+This is a simple web app that fetches economic indicators for any country using the [Trading Economics API](https://tradingeconomics.com/).
 
-The Trading Economics API provides you with direct access to 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format. The API can be used to feed a custom developed application, a public website or just off-the-shelf software like Microsoft Excel.
+---
 
-#
+### 🔧 Features
+- Enter any country name (like "India", "USA", "Germany")
+- Fetches real-time economic data using the TradingEconomics API
+- Displays economic indicators in a clean, readable format
 
-**Documentation**
+---
 
-https://docs.tradingeconomics.com/
+### 💻 Built With
+- HTML, CSS, JavaScript
+- TradingEconomics API (Free Guest Access)
 
-#
+---
 
-**GitHub Examples**
+### 🧠 What This Project Shows
+- API usage and fetch requests in JavaScript
+- Real-time data integration
+- UI/UX simplicity and functionality
 
-https://github.com/tradingeconomics/tradingeconomics
+---
 
-#
+### 📎 How to Use
+1. Clone or download the repository.
+2. Open `index.html` in any browser.
+3. Enter a country name and click "Get Data".
 
-**Python**
+---
 
-[https://github.com/tradingeconomics/tradingeconomics-python](https://github.com/tradingeconomics/tradingeconomics-python)
+### 👤 Developer Info
 
-#
+**Name**: Kuldeep Sah  
+**Email**: kuldeepsah3654@gmail.com  
+**Phone**: +91 8383936439  
+**Portfolio**: [wokzok.com/kuldeep](https://wokzok.com/kuldeep)  
+**Location**: Rohini, Delhi  
+**Education**: MCA (2024–2026), VIPS, GGSIPU
 
-**Jupyter Notebooks**
+---
 
-https://github.com/tradingeconomics/notebooks
-
-#
-
-**Docker**
-
-https://hub.docker.com/u/tradingeconomics
-
-#
-
-**Learn More**
-
-https://tradingeconomics.com/api/
-
-
-
-
-
+Thanks for checking out my submission!
